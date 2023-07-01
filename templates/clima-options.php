@@ -51,6 +51,11 @@
                     <button id="save-options">Guardar</button>
                 </th>
             </tr>
+            <tr>
+                <td>
+                    <p>Obten tu apikey en https://openweathermap.org/</p>
+                </td>
+            </tr>
         </table>
     </div>
 </div>
